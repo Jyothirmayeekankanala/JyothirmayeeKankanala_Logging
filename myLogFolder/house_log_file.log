@@ -1,0 +1,58 @@
+Entry to get_house_information
+Select one of the materials standard:
+
+1=>standard material
+
+2=>above standard material
+
+3=>high standard material
+
+1
+1200
+End of get_house_information
+Returning cost estimation from cost_estimate method
+Estimated house construction cost : 1440000
+Entry to get_house_information
+Select one of the materials standard:
+
+1=>standard material
+
+2=>above standard material
+
+3=>high standard material
+
+2
+2300
+End of get_house_information
+Returning cost estimation from cost_estimate method
+Estimated house construction cost : 3450000
+Entry to get_house_information
+Select one of the materials standard:
+
+1=>standard material
+
+2=>above standard material
+
+3=>high standard material
+
+3
+yes
+3200
+End of get_house_information
+Returning cost estimation from cost_estimate method
+Estimated house construction cost : 8000000
+Entry to get_house_information
+Select one of the materials standard:
+
+1=>standard material
+
+2=>above standard material
+
+3=>high standard material
+
+3
+no
+5400
+End of get_house_information
+Returning cost estimation from cost_estimate method
+Estimated house construction cost : 9720000
